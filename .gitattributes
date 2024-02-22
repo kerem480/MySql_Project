@@ -1,2 +1,16 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+#Create table for adding something in it
+CREATE TABLE team(
+    PRIMARY KEY (player_id),
+    player_id INT,
+    first_name VARCHAR(20),
+    last_name VARCHAR(20),
+    age INT,
+    nation VARCHAR(3),
+    mp INT,
+    starts INT,
+    Mt INT,
+    full_match INT,
+    goals INT,
+    assist INT,
+    pos VARCHAR(8)
+);
