@@ -1,0 +1,40 @@
+#Glance at the data
+SELECT * FROM team;
+
+DESCRIBE team;
+
+#Find who is the most scored in the team
+SELECT *
+FROM team
+ORDER BY goals DESC;
+
+#Indıcate first 5 player in the team
+SELECT *
+FROM team
+LIMIT 5;
+
+#Find who scored more than 8
+SELECT *
+FROM team
+WHERE goals > 8;
+
+#Find just first name and last name of the team
+SELECT first_name,last_name
+FROM team;
+
+#Find number of players who started in the starting 11 for less than 9 matches playing in the forward position
+SELECT COUNT(mp)
+FROM team
+WHERE pos="FW" AND starts < 9;
+
+#Find average of team ages
+SELECT AVG(age)
+FROM team;
+
+#Find how many goals numbers exist in the data
+SELECT DISTINCT goals
+FROM team;
+
+#Remove a row in data
+DELETE FROM team
+WHERE first_name="Joe";
