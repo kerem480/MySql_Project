@@ -1,0 +1,72 @@
+#Add features in "team table"
+INSERT INTO team VALUES(1,"Allison","Becker",31,"BRA",21,21,1890,21,0,0,"GK");
+
+INSERT INTO team VALUES(2,"Virgil","Van Dijk",32,"NED",23,23,2007,22.3,1,2,"DF");
+
+INSERT INTO team VALUES(3,"Mohamed","Salah",31,"EGY",21,20,1786,19.8,15,9,"FW");
+
+INSERT INTO team VALUES(4,"Dominik","Szoboszlai",23,"HUN",21,20,1657,18.4,3,2,"MF");
+
+INSERT INTO team VALUES(5,"Trent","Alexander-Arnold",25,"ENG",21,19,1622,18.0,2,4,"DF");
+
+INSERT INTO team VALUES(6,"Luis","Diaz",27,"COL",24,19,1568,17.4,5,3,"FW");
+
+INSERT INTO team VALUES(7,"Alexis","Mac Allister",25,"ARG",20,19,1541,17.1,2,1,"MF");
+
+INSERT INTO team VALUES(8,"Darwin","Nunez",24,"URU",24,16,1465,16.3,9,7,"FW");
+
+INSERT INTO team VALUES(9,"Ibrahima","Konate",24,"FRA",18,13,1242,13.8,0,0,"DF");
+
+INSERT INTO team VALUES(10,"Diogo","Jota",27,"POR",19,13,1047,11.6,9,3,"FW");
+
+INSERT INTO team VALUES(11,"Curtis","Jones",23,"ENG",17,12,956,10.6,1,1,"MF");
+
+INSERT INTO team VALUES(12,"Joe","Gomez",26,"ENG",21,11,1182,13.1,0,1,"DF");
+
+INSERT INTO team VALUES(13,"Cody","Gakpo",24,"NED",23,10,975,10.8,4,3,"FW,MF");
+
+INSERT INTO team VALUES(14,"Andrew","Robertson",29,"SCO",12,10,954,10.6,1,0,"DF");
+
+INSERT INTO team VALUES(15,"Wataru","Endo",31,"JPN",17,10,883,9.8,1,0,"MF");
+
+INSERT INTO team VALUES(16,"Joel","Matip",32,"CMR",10,9,781,8.7,0,0,"DF");
+
+INSERT INTO team VALUES(17,"Ryan","Gravenberch",21,"NED",18,8,768,8.5,0,0,"MF");
+
+INSERT INTO team VALUES(18,"Kostas","Tsimikas",27,"GRE",11,8,665,7.4,0,3,"DF");
+
+INSERT INTO team VALUES(19,"Caoimhin","Kelleher",25,"IRL",4,4,360,4.0,0,0,"GK");
+
+INSERT INTO team VALUES(20,"Jarell","Quansah",21,"ENG",7,4,353,3.9,0,0,"DF");
+
+INSERT INTO team VALUES(21,"Harvey","Elliott",20,"ENG",21,3,583,6.5,1,2,"MF,FW");
+
+INSERT INTO team VALUES(22,"Conor","Bradley",20,"NIR",3,3,231,2.6,1,3,"DF");
+
+INSERT INTO team VALUES(23,"Bobby","Clark",19,"ENG",3,0,17,0.2,0,0,"MF");
+
+INSERT INTO team VALUES(24,"Ben","Doak",18,"SCO",1,0,14,0.2,0,0,"FW");
+
+INSERT INTO team VALUES(25,"Owen","Beck",21,"WAL",1,0,8,0.1,0,0,"DF");
+
+INSERT INTO team VALUES(26,"Thiago","Alcantara",32,"ESP",1,0,6,0.1,0,0,"MF");
+
+INSERT INTO team VALUES(27,"James","McConell",19,"ENG",2,0,2,0,0,0,"MF");
+
+INSERT INTO team VALUES(28,"Kaide","Gordon",19,"ENG",1,0,1,0,0,0,"FW");
+
+INSERT INTO team VALUES(29,"Adrian","Castillo",37,"ESP",0,0,0,0,0,0,"GK");
+
+INSERT INTO team VALUES(30,"Stefan","Bajcetic",19,"ESP",0,0,0,0,0,0,"DF");
+
+INSERT INTO team VALUES(31,"Luke","Chambers",19,"ENG",0,0,0,0,0,0,"DF");
+
+INSERT INTO team VALUES(32,"Lewis","Koumas",18,"WAL",0,0,0,0,0,0,"MF");
+
+INSERT INTO team VALUES(33,"Fabian","Mrozek",20,"POL",0,0,0,0,0,0,"GK");
+
+INSERT INTO team VALUES(34,"Trey","Nyoni",16,"ENG",0,0,0,0,0,0,"MF");
+
+INSERT INTO team VALUES(35,"Marcelo","Pitaluga",21,"BRA",0,0,0,0,0,0,"GK");
+
+INSERT INTO team VALUES(36,"Calum","Scanlon",19,"ENG",0,0,0,0,0,0,"MF");
